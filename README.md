@@ -5,7 +5,7 @@ Make sure that all files are in the same folder.
 The UI of the program is encryptInterface.py
 ## To see how it works
 # Encryption
-1.) There is already a test file you can use with a set message (inspect message in file = "crypt_test.text". If you would like to set your own message follow step 1.a) below. Otherwise skip
+1.) There is already a test file you can use with a set message (inspect message in file = "crypt_test.text". If you would like to set your own message follow step 1.a) below. Otherwise skip \n
 1.a) First create a new text file in the same folder (Name the file anything) and then write a message in the file (FYI- the longer the message the more compute necessary)
 2.) To run program - open terminal at folder. type command "python3 encryptInterface.py"
 2.) follow the prompts, generate a new set of keys and make sure to save them
