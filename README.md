@@ -5,5 +5,7 @@ Make sure that all files are in the same folder.
 The UI of the program is encryptInterface.py
 ## To run
 To run program - open terminal at folder. type command "python3 encryptInterface.py"
+follow the prompts (you do no not have keys you must generate new ones)
+
 
 Created by Troy Daniels
